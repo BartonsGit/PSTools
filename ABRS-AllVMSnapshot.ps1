@@ -2,9 +2,12 @@
 # MICROSOFT - SCRIPT - POWERSHELL
 # NAME: ABRS-AllVMSnapshot.ps1
 # 
-# AUTHOR:  Nicholas Karwisch, Microsoft
-# DATE:    March 23, 2021
-# EMAIL:   nikarw@microsoft.com
+# AUTHOR:     Nicholas Karwisch, Microsoft
+# DATE:       March 23, 2021
+# EMAIL:      nikarw@microsoft.com
+# CO-AUTHOR:  Nick Outlaw, Microsoft
+# DATE:       March 23, 2021
+# EMAIL:      christopher.outlaw@microsoft.com
 # 
 # COMMENT:  This script will snapshot all virtual machines in all subscriptions
 #           and snapshot VM's into a singular resource group. Logs are
